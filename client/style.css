@@ -15,7 +15,7 @@ body {
 #app {
   width: 100vw;
   height: 100vh;
-  background: yellow;
+  background: rgb(37, 150, 190);
   /* background: #343541; */
 
   display: flex;
