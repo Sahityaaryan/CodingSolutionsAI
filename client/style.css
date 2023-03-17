@@ -15,7 +15,7 @@ body {
 #app {
   width: 100vw;
   height: 100vh;
-  background: rgb(37, 150, 190);
+  background: #7B2CBF;
   /* background: #343541; */
 
   display: flex;
@@ -52,7 +52,7 @@ body {
 }
 
 .ai {
-  background: #40414F;
+  background: #E0AAFF;
 }
 
 .chat {
